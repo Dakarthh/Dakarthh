@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou o Herrison (Dakarth)
-- 🌱 Atualmente estou aprendendo css, html, c++ 
+- 👋 Olá, eu sou Herrison ou Dakarth
+- 🌱 Atualmente estou aprendendo css, html, c++ e lua
 - 🖥️ Estou procurando a área da computação em que quero estar
 <div align="center">
   <a href="https://github.com/Dakarthh">
@@ -11,6 +11,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+        <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+
 </div>
   <p>
   <p>
