@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou o Herrison (Dakarth)
-- 👀 Eu estou interessado em me tornar um Dev full stack
-- 🌱 Atualmente estou aprendendo java, html e css
-- 🖥️ Estou procurando colaborar com projetos de nivel iniciante
+- 🌱 Atualmente estou aprendendo css, html, c++ 
+- 🖥️ Estou procurando a área da computação em que quero estar
 <div align="center">
   <a href="https://github.com/Dakarthh">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dakarthh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
