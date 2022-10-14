@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Herrison ou Dakarth
-- 🌱 Atualmente estou aprendendo css, html, c++ e lua
+- 🌱 Atualmente estou aprendendo css, html, c++, javascript e lua
 - 🖥️ Estou procurando a área da computação em que quero estar
 <div align="center">
   <a href="https://github.com/Dakarthh">
