@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Herrison
-- 🌱 Atualmente estou aprendendo css, html, c++, javascript e lua
+- 🌱 Atualmente estou aprendendo SQL, MySQL, laravel, React, jQuery, TypeScript e java
 - 🖥️ Estou procurando a área da computação em que quero estar
 <div align="center">
   <a href="https://github.com/Dakarthh">
