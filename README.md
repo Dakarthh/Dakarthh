@@ -1,6 +1,5 @@
 - 👋 Olá, eu sou Herrison
 - 🌱 Atualmente estou aprendendo SQL, MySQL, laravel, React, jQuery, TypeScript e java
-- 🖥️ Estou procurando a área da computação em que quero estar
 <div align="center">
   <a href="https://github.com/Dakarthh">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dakarthh&show_icons=true&_all_commits=true&count_private=true"/>
