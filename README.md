@@ -1,28 +1,19 @@
-# 👋 Olá, eu sou Herrison (Dakarth)
+# 👋 Olá, eu sou Herrison (Dakarthh)
 
-- 🎓 Graduando em **Ciência da Computação** (5º Semestre) na UNIFACS.
-- 💻 Desenvolvedor com base sólida em **C++** e **C**, atualmente focado em **Java** e **Python**.
-- 🚀 Aprimorando conhecimentos em **SQL**, **TypeScript** e frameworks modernos.
-- 🛡️ Interessado em performance de sistemas e segurança.
+- 🎓 Graduando em **Ciência da Computação** (6º semestre) pela UNIFACS, com histórico anterior na UFMT.
+- 💻 Base sólida em **Python, C e C++**, construída em exercícios de algoritmos, estruturas de dados e um jogo 2D feito com Pygame.
+- 🚀 Atualmente aprofundando conhecimentos em **Java e Spring Boot** para expandir minha atuação em back-end.
+- 🎯 Buscando uma oportunidade de **estágio em desenvolvimento de software** para aplicar esses fundamentos em projetos reais.
 
-<div align="center">
-  <a href="https://github.com/Dakarthh">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dakarthh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakarthh&layout=compact&theme=dark"/>
-</div>
+### 📌 Projeto em destaque
+[**Prog-I**](https://github.com/Dakarthh/Prog-I) — inclui meu primeiro jogo 2D feito com Pygame: uma nave que desvia de asteroides, com sistema de pontuação e efeitos sonoros.
+
+![](https://github-readme-stats.vercel.app/api?username=Dakarthh&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakarthh&layout=compact&theme=dark)
 
 ### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
+
+![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) ![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
 
 ### 📫 Contato
-<div> 
-  <a href="https://www.linkedin.com/in/herrison-batista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:js32132132@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herrison-batista/) [![](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js32132132@gmail.com)
